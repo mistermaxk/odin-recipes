@@ -7,4 +7,3 @@ A basic HTML structure for some home-made eats, such as:
 - Linguini with Clam Sauce
 
 All images generated using FLUX/Stable Diffusion.
-Eventually this content will be styled, *but not yet*.
