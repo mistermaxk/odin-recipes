@@ -39,8 +39,15 @@ h2 {
 }
 
 #main-title {
-    font-size: 2.5em;
+    font-size: 3.5em;
+    line-height: 1em;
     text-transform: uppercase;
+}
+
+#odin-portrait {
+    border-radius: 50% 50% 16px 16px;
+    box-shadow: inset 8px 8px 5px 5px black;
+    border: 2px solid black;
 }
 
 #cover p,
