@@ -59,7 +59,7 @@ h2 {
 .container {
     margin: 0 auto;
     padding: 8px 24px;
-    width: 512px;
+    width: 576px;
     background-color: hsl(20, 40%, 94%);
     border-left: double 8px black;
     border-right: double 8px black;
